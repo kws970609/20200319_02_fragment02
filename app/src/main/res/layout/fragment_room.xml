@@ -7,6 +7,9 @@
         android:layout_height="match_parent"
         android:orientation="vertical"
         tools:context=".MainActivity"
+        <ListView
+            layout_width=""
+            layout_height=""
 
 
 
